@@ -5,8 +5,8 @@
   "background_color": "#fff",
   "display": "standalone",
   "orientation": "portrait",
-  "scope": "https://ahmedel-manzlawy.github.io/New-PWA.github.io/",
-  "start_url": "https://ahmedel-manzlawy.github.io/New-PWA.github.io/",
+  "scope": ".",
+  "start_url": "./",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
